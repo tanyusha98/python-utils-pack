@@ -1,2 +1,3 @@
-# python-utils-pack
-python-utils-pack
+# Python Utils Pack
+
+Small utility functions with tests.
